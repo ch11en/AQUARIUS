@@ -5,28 +5,6 @@ It keeps only the core model implementation and environment files from the
 original project.
 
 
-## Directory Layout
-
-```text
-README.md
-`model/
-    `-- tgnn/
-        |-- aquarius_model.py
-        |-- aquarius_model_enhanced.py
-        |-- bert_whitening.py
-        |-- bert_whitening_aspect.py
-        |-- load_data.py
-        |-- model_run.py
-        |-- nlp_util.py
-        |-- quadruple_model.py
-        |-- quadruple_model_v2.py
-        |-- requirements.txt
-        |-- rhgc.py
-        |-- rhgc_aspect.py
-        |-- rhg_data.py
-        `-- util.py
-```
-
 ## Environment
 
 Activate the conda environment used by the original AQUARIUS project, then
