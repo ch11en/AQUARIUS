@@ -26,7 +26,7 @@ Run scripts from the project root:
 ```bash
 cd "/data/cxf2022/dl_project/AQUARIUS-main(for paper)"
 conda activate <your-aquarius-env>
-python model/tgnn/model_run.py
+python model/model_run.py
 ```
 
 Before reproducing experiments, prepare the required datasets and pretrained
